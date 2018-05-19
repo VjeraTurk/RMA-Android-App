@@ -1,13 +1,16 @@
-*.apk
-*.ap_
-.dex
-.class
-bin/
-gen/
-local.properties
-Thumbs.db
+#*.apk
+#*.ap_
+#*.dex
+#*.class
 
-.iml
+#bin/
+#gen/
+#Thumbs.db
+
+/local.properties
+
+
+*.iml
 .idea
 .idea/
 #.idea/workplace.xml
